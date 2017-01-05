@@ -1,0 +1,10 @@
+{
+	"name": "jsenv-compose",
+	"version": "0.0.1",
+	"description": "Basic object composition",
+	"license": "UNLICENSED",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jsenv/compose"
+	}
+}
